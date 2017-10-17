@@ -10,5 +10,5 @@ The file pubg.py includes a complete spider of [PUBG.ME](https://pubg.me/) and s
 ## Clustering and Ploting
 first_class.ipynb is my lecture note of *Introduction to Python*, the part of clustering and ploting is in somewhere middle of it.
 It is not a typical python file, but you can run it by executing ```jupyter notebook``` in cmd or any other terminal.
-## Other files
+## Other Files
 Timer.py includes a decorator named ``rum_time`` which is used in first_class.ipynb， but it is nothing do with our theme.
