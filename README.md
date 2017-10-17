@@ -10,7 +10,7 @@ So that's it.
 ## Spider
 The file [pubg.py](https://github.com/monlie/cluster_for_pubg/blob/master/pubg.py) includes a complete spider of [PUBG.ME](https://pubg.me/) and some i/o api for Excel.
 ## Clustering and Ploting
-first_class.ipynb is my lecture note of *Introduction to Python*, the part of clustering and ploting is in somewhere middle of it.
+[first_class.ipynb](https://github.com/monlie/cluster_for_pubg/blob/master/first_class.ipynb) is my lecture note of *Introduction to Python*, the part of clustering and ploting is in somewhere middle of it.
 It is not a typical python file, but you can run it by executing ```jupyter notebook``` in cmd or any other terminal.
 ## Other Files
 [Timer.py](https://github.com/monlie/cluster_for_pubg/blob/master/timer.py) includes a decorator named ``rum_time`` which is used in first_class.ipynb， but it is nothing do with our theme.
