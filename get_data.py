@@ -3,6 +3,10 @@
 import xlrd
 import numpy as np
 
+'''
+这个文件是之前数模国赛时候写的，但是因为接口一样，就直接拿来用了，别在意里面的变量名。
+'''
+
 #打开Excel文档
 def open_exl(address, idx):
     data = xlrd.open_workbook(address)
