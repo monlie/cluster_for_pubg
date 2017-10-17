@@ -1,4 +1,6 @@
 # cluster_for_pubg
+![](https://pic1.zhimg.com/v2-f905cbc19ebeb91a8d2ec757431a4de4_b.jpg)
+
 Analysis the behaviour of players in PUBG solo top100 by kmeans cluster algorithm.
 ## Introduction
 To be honest, i didnt't plan to put these code in GayHub at first. 
